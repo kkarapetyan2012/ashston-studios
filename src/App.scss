@@ -205,15 +205,12 @@ header {
   }
 }
 
-.sticky {
-  top: 0;
-}
-
 .menu__item:hover .menu__submenu {
   &__list {
     display: block;
   }
 }
+
 .sticky {
   position: sticky;
   top: 0;
